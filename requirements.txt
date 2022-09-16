@@ -7,7 +7,7 @@ Flask-Script==2.0.6
 Flask-SQLAlchemy==2.4.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
-Mako==1.0.14
+Mako==1.2.2
 MarkupSafe==1.1.1
 mysql-connector-python==8.0.17
 mysqlclient==1.4.2.post1
